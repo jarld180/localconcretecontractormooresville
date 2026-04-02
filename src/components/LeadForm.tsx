@@ -54,7 +54,7 @@ const LeadForm: React.FC<{ title?: string }> = ({ title = "Request a Free Quote"
           <label className="block text-sm font-medium text-gray-700 mb-1">Phone *</label>
           <input type="tel" name="phone" required value={form.phone} onChange={handleChange}
             className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500"
-            placeholder="(555) 555-5555" />
+            placeholder="(980) 447-6044" />
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700 mb-1">Street Address *</label>
